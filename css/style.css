@@ -1,0 +1,137 @@
+
+
+
+/* home */
+.total{
+    background-color: #234e70;
+    padding-top: 90px;
+    font-family: 'Racing Sans One', cursive;
+    
+}
+h2{
+    font-family: 'Sansita', sans-serif;
+}
+h3{
+    font-family: 'Sansita', sans-serif;
+}
+h5{
+    font-family: 'Sansita', sans-serif;
+}
+p{
+    font-family: 'Balsamiq Sans', cursive;
+}
+.home{
+background-color:  #234e70;
+text-align: center;
+line-height: 1.5;
+font-weight: bold;
+padding: 5% 7%;
+}
+
+.home-image{
+    font-size: 1000%;
+    color:  #fbf8be;
+}
+.home-image:hover{
+    font-size: 1010%;
+    text-shadow: 2px 2px black;
+}
+.text-style {
+    color: #fbf8be;
+}
+.brand-image{
+    width: 3%;
+    border-radius: 100%;
+}
+
+.school-name{
+    font-size: 4.5rem;
+    font-family: 'Balsamiq Sans', cursive;
+    color:  #001a33;
+    animation-name: example;
+    animation-duration: 6s;
+    animation-delay: 0.5s;
+    animation-iteration-count: infinite;
+}
+@keyframes example{
+    from {text-shadow:0px 0px black;
+    color:  #001a33;}
+    to {text-shadow:2px 2px black;
+    color: #fbf8be;}
+    
+}
+.school-name:hover{
+    font-size: 4.525rem;
+    text-shadow: 1px 1px black;
+}
+#navb{
+    background-color: #234e70;
+    color: #fbf8be;
+}
+.home-button{
+    font-family: 'Balsamiq Sans', cursive;
+}
+/* 
+result-section */
+
+#result{
+    text-align: center;
+    padding: 20px;
+}
+.result-image{
+    font-size: 500%;
+    padding: 5%;
+}
+
+.card{
+    margin: 5px;
+}
+
+
+/* principal-section */
+ #principal{
+     background-color: #234e70 ;
+     text-align: center;
+     color: #fbf8be;
+     padding: 30px;;
+ }
+ 
+
+
+ /* facility-section */
+ #facility{
+     padding: 30px;
+     text-align: center;
+ }
+ .facility-image{
+     color: #234e70;
+     font-size: 500%;
+ }
+ .facility-image:hover{
+     
+     font-size: 505%;
+ }
+
+ .facility-card{
+     padding: 10px;
+     margin-bottom: 5px;
+ }
+ .facility-card:hover{
+     text-shadow: 0.5px 0.5px black;
+ }
+/* footer-section */
+#footer{
+    background-color:  #234e70;
+    color: #fbf8be;
+    text-align: center;
+    padding: 10px;
+}
+.footer-image:hover{
+    font-size: 140%;
+    text-shadow: 1px 1px black;
+}
+.developer:hover{
+    font-family: 'Sansita', sans-serif;
+  font-size: 200%;
+  text-shadow: 1px 1px black;
+}
